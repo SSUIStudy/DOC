@@ -47,3 +47,6 @@ $ git config --global --edit
 `tag` | 태그 추가
 `checkout` | Branch 이동 및 특정 파일 다운로드
 `merge` | 병렬적으로 진행된 Brach를 하나의 Brach로 병합  병합 병합 
+
+
+dd
