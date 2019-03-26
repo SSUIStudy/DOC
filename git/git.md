@@ -49,4 +49,4 @@ $ git config --global --edit
 `merge` | 병렬적으로 진행된 Brach를 하나의 Brach로 병합  병합 병합 
 
 ddd
-dd
+ddss
