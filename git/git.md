@@ -48,3 +48,11 @@ $ git config --global --edit
 `checkout` | Branch 이동 및 특정 파일 다운로드
 `merge` | 병렬적으로 진행된 Brach를 하나의 Brach로 병합
 
+### 3.1 Git 저장소 초기화
+
+현재 디렉토리를 Git 저장소로 설정하는 명령<br>
+※ 감춰진 .git 디렉토리가 생성된다.
+
+```sh
+$ git init
+```
